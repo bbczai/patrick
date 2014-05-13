@@ -1,4 +1,4 @@
 Ganymede
 Io
-Phobos
-The Moon
+Phobos #Mars
+The Moon #Earth
